@@ -1,6 +1,6 @@
 #include <DFRobot_sim808.h>
 #include <SoftwareSerial.h>
-#define PHONE_NUMBER "0873552898"
+#define PHONE_NUMBER "PHONE_NUMBER"
 #define MESSAGE_LENGTH 160 
 #include <String.h>
 #include <LiquidCrystal.h>
